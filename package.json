@@ -1,0 +1,22 @@
+{
+  "name": "randy-serverless",
+  "version": "1.0.0",
+  "description": "testing-serverless",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdkclements/randy-serverless.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdkclements/randy-serverless/issues"
+  },
+  "homepage": "https://github.com/sdkclements/randy-serverless#readme",
+  "devDependencies": {
+    "serverless-offline": "^3.16.0"
+  }
+}
